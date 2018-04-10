@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cpp_zia.dir/src/main.cpp.o CMakeFiles/cpp_zia.dir/src/SocketServer.cpp.o CMakeFiles/cpp_zia.dir/src/Socket.cpp.o CMakeFiles/cpp_zia.dir/src/StyleParser.cpp.o  -o cpp_zia 
